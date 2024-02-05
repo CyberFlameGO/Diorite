@@ -41,7 +41,7 @@
 
         <version.library.jopt>6.0-alpha-1</version.library.jopt>
         <version.library.slf4j>1.7.22</version.library.slf4j>
-        <version.library.log4j>2.7</version.library.log4j>
+        <version.library.log4j>2.12.4</version.library.log4j>
         <version.library.jline>3.0.0.M1</version.library.jline>
         <version.library.fastutil>7.0.13</version.library.fastutil>
         <version.library.guava>20.0</version.library.guava>
